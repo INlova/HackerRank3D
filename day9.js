@@ -1,5 +1,4 @@
 function processData(input) {
-	//Enter your code here
 	console.log(factorial(input));
 }
 
